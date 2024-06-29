@@ -9,9 +9,12 @@ They want to optimize their marketing spend and maximize bookings and revenue.
 
 - Data : Excel sheet 
 
--Analysis tool : Power BI 
-  use Power Query to import the data from Excel sheet and clean it 
+- Analysis tool : Power BI
+- 
+  use Power Query to import the data from Excel sheet and clean it
+  
   use functions to create measurs to calculate ROI and CTR
+  
   use charts to do report and interactive dashboard 
 
 
